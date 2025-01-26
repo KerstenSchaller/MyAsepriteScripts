@@ -1,0 +1,2 @@
+# MyAsepriteScripts
+MyAsepriteScripts
